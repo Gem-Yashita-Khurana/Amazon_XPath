@@ -1,0 +1,5 @@
+Q : Why do we need axes method to create Xpaths?
+
+Ans : Xpath axes are used to search for multiple nodes in the XML document from the current node context.
+These methods are mainly used when the web element is not identified with the help of ID, name, class name, link text, CSS selector and XPath, etc.
+Some XPath axes which are commonly used to identify the web element through XPath are child,parent,following,preceding,descendant etc.
